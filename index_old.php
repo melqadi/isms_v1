@@ -6,7 +6,7 @@ session_start();
 error_reporting(0);
 require_once 'conf.php';
 require_once 'init.php';
-
+ 
 if(!isset($_SESSION['id_account']))
 {
    include './login.php';
