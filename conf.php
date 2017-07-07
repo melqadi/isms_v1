@@ -1,6 +1,11 @@
 <?php
 $control="./app/controller/hr/";
 $view="./app/view/hr/";
+
+
+
+
+
 $jq="assets/jquery/";
 $upload_file_conf="assets/uploads/users/";
 $upload_export_conf="assets/uploads/export/";
